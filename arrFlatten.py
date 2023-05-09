@@ -7,7 +7,7 @@ def flatten(arr):
             res.append(i)
     return res
 
-print(flatten([1,2,3,[4,5],6,7]))
+print(flatten([1,2,3,[4,5],6,7,[9,11,10]]))
 
 
         
