@@ -4,5 +4,5 @@ def isPalindrome(strng):
     if strng[0] != strng[len(strng)-1]:
         return 'Not Palindrome'
     return isPalindrome(strng[1:-1])
-s='kayakak'
+s='malayalam'
 print(isPalindrome(s))

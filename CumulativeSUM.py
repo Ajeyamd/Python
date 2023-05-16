@@ -5,4 +5,4 @@ def sum(a):
     else:
         return a+sum(a-1)
     
-print(sum(10))
+print(sum(15))
