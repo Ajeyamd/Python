@@ -14,6 +14,6 @@ sum = getSum(num, num_length)
 
 # display output
 if sum == int(num):
-    print(num, "is an Armstrong Number.")
+    print(num, "is an Armstrong Number")
 else:
-    print(num, "is not an Armstrong Number.")
+    print(num, "is not an Armstrong Number")
