@@ -4,4 +4,4 @@ def capital(arr):
      else:
         return [arr[0].upper()]+capital(arr[1:])
     
-print(capital(['this','is','python']))
+print(capital(['this','is','python','Program']))
